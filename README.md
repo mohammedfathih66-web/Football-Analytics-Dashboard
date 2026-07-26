@@ -82,7 +82,7 @@ Football-Analytics-Dashboard/
 ## Dashboard Preview
 
 <!-- Add a screenshot at Screenshots/dashboard.png, then this will render automatically -->
-![Football Dashboard](Screenshots/dashboard.png)
+![Football Dashboard](dashboard.png)
 
 ## How to Use
 
