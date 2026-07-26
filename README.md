@@ -2,6 +2,11 @@
 
 An interactive Excel dashboard for analyzing football team and player performance, built from raw match data using pivot tables, slicers, and dynamic visualizations.
 
+## Dashboard Preview
+
+<!-- Add a screenshot at Screenshots/dashboard.png, then this will render automatically -->
+![Football Dashboard](dashboard.png)
+
 ## Overview
 
 This project turns raw football match statistics into an interactive dashboard for exploring team performance, goal-scoring trends, player contributions, and league standings. It was built to demonstrate practical data analysis and dashboard design skills using Microsoft Excel.
@@ -78,11 +83,6 @@ Football-Analytics-Dashboard/
 │
 └── README.md
 ```
-
-## Dashboard Preview
-
-<!-- Add a screenshot at Screenshots/dashboard.png, then this will render automatically -->
-![Football Dashboard](dashboard.png)
 
 ## How to Use
 
